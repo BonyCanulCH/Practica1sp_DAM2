@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practica_Dialogos</string>
+    <string name="txtb1">Ver Toast</string>
+    <string name="txtb2">Ver Toast Personalizado</string>
+    <string name="txtb3">Ver Diálogo</string>
+    <string name="txtb4">Ver Diálogo Personalizado</string>
+    <string name="txtb5">Capturar Correo</string>
+    <string name="txtbienvenida">Bienvenido</string>
+    <string name="txtpositivo">Guardar Cambios</string>
+    <string name="txtnegativo">Cancelar</string>
+    <string name="ingmail">Escribe tu correo electrónico</string>
+    <string name="hintcorreo">Correo electrónico</string>
+    <string name="toastxt">TOAST PERSONALIZADO</string>
+    <string name="mostoast">Bienvenido al Toast Personalizado, este toast es totalmente distinto al toast que viene por defecto</string>
+    <string name="titleapp">Diálogos y Toast</string>
+
+
+</resources>
